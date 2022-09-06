@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AwokenShade
+- 👀 I’m interested in On site and Remote pen testing, and development in those regards.
+- 🌱 I’m currently learning how to implement automated CTF creation with Docker.
+- 📫 How to reach me, not yet.
